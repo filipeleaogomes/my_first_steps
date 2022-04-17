@@ -1,4 +1,5 @@
 1-https://github.com/filipeleaogomes/my_first_steps
+
 2-
 -git init
 -git add .
@@ -6,6 +7,7 @@
 -git branch -M main
 -git remote add origin https://github.com/filipeleaogomes/my_first_steps.git
 -git push -u origin main
+
 3-
 touch ola_munto.txt
 nano ola_mundo.txt
